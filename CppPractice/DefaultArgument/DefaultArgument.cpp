@@ -6,8 +6,9 @@
 
 using namespace std;
 
-inline int sumOfThreeNums( int A[2][],int a=1, int b=2,const int c=3)
+inline int sumOfThreeNums(int a=1, int b=2, const int c=3)
 {
+	
           //  c = 10;	  //error, since c is const arguement
 	 return a+b+c;
 }
