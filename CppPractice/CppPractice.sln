@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorOverloading", "Oper
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataConversion", "DataConversion\DataConversion.vcxproj", "{7A704468-02C7-4EBD-AE75-AD49AA3D63CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance", "Inheritance\Inheritance.vcxproj", "{14CCD593-2F73-4C50-80B2-1F4102BAB454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +33,10 @@ Global
 		{7A704468-02C7-4EBD-AE75-AD49AA3D63CD}.Debug|Win32.Build.0 = Debug|Win32
 		{7A704468-02C7-4EBD-AE75-AD49AA3D63CD}.Release|Win32.ActiveCfg = Release|Win32
 		{7A704468-02C7-4EBD-AE75-AD49AA3D63CD}.Release|Win32.Build.0 = Release|Win32
+		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Debug|Win32.Build.0 = Debug|Win32
+		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Release|Win32.ActiveCfg = Release|Win32
+		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
