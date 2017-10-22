@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataConversion", "DataConve
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance", "Inheritance\Inheritance.vcxproj", "{14CCD593-2F73-4C50-80B2-1F4102BAB454}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism", "Polymorphism\Polymorphism.vcxproj", "{B4C9EE86-439D-4941-827E-FD30FF5917EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,10 @@ Global
 		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Debug|Win32.Build.0 = Debug|Win32
 		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Release|Win32.ActiveCfg = Release|Win32
 		{14CCD593-2F73-4C50-80B2-1F4102BAB454}.Release|Win32.Build.0 = Release|Win32
+		{B4C9EE86-439D-4941-827E-FD30FF5917EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4C9EE86-439D-4941-827E-FD30FF5917EB}.Debug|Win32.Build.0 = Debug|Win32
+		{B4C9EE86-439D-4941-827E-FD30FF5917EB}.Release|Win32.ActiveCfg = Release|Win32
+		{B4C9EE86-439D-4941-827E-FD30FF5917EB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -26,6 +26,7 @@ int main(int argc, _TCHAR* argv[])
 	 cout<<"name: "<<m1.getName()<<endl;
 	 cout<<"pay: "<<m1.get_pay()<<endl;
 	 cout<<"experience:"<<m1.get_exp()<<endl;
-	return 0;
+	 return 0;
+	
 }
 
