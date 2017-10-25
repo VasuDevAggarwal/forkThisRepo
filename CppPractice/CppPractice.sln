@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Templates", "Templates\Temp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.vcxproj", "{A039C3E4-4EF9-4E1D-A252-0DBF0B25B381}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL", "STL\STL.vcxproj", "{EB816EE4-AAC6-4E48-A4CF-B6CDB79144BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -61,6 +63,10 @@ Global
 		{A039C3E4-4EF9-4E1D-A252-0DBF0B25B381}.Debug|Win32.Build.0 = Debug|Win32
 		{A039C3E4-4EF9-4E1D-A252-0DBF0B25B381}.Release|Win32.ActiveCfg = Release|Win32
 		{A039C3E4-4EF9-4E1D-A252-0DBF0B25B381}.Release|Win32.Build.0 = Release|Win32
+		{EB816EE4-AAC6-4E48-A4CF-B6CDB79144BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EB816EE4-AAC6-4E48-A4CF-B6CDB79144BD}.Debug|Win32.Build.0 = Debug|Win32
+		{EB816EE4-AAC6-4E48-A4CF-B6CDB79144BD}.Release|Win32.ActiveCfg = Release|Win32
+		{EB816EE4-AAC6-4E48-A4CF-B6CDB79144BD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
