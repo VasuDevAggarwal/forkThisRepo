@@ -34,3 +34,10 @@ std::ostream& operator<<(std::ostream &out,MyVector<T> &vector)
 	out<<"\b"<<")";
 	return out;
 }
+
+template<class T>
+void uselessFunction(T var)
+{
+	var;
+	var;
+}
